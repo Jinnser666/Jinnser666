@@ -1,8 +1,6 @@
-add banner (use your links) :
-[![MasterHead](https://1.bp.blogspot....​)](https://rishavchanda.io​)<h1 align="center">Hi 👋, I'm jinn_ser_666</h1>
+">Hi 👋, I'm jinn_ser_666</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-add Right Gif Image
-(img align="right" alt="Coding" width="400" src="https://cdn.dribbble.c
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jinnser666&label=Profile%20views&color=0e75b6&style=flat" alt="jinnser666" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
